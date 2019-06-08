@@ -21,7 +21,7 @@
 		a:link {text-decoration: none; color: #333333;}
 		a:visited {text-decoration: none; color: #333333;}
 		a:active {text-decoration: none; color: #333333;}
-		a:hover {text-decoration: underline; color: #F15F5F;}
+		a:hover {text-decoration: underline; color: red;}
 		</style>
 
 		<hr width="35%">
